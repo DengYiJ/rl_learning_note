@@ -7,6 +7,8 @@ import torch.optim as optim
 # 离散概率分布
 from torch.distributions import Categorical
 
+
+# Sutton 教材中的 Reward-to-Go形式
 # =====================================================
 # Actor
 #  ↓
