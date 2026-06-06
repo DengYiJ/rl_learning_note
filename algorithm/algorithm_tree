@@ -1,0 +1,16 @@
+Policy Gradient
+│
+├── REINFORCE
+│      │
+│      └── Baseline
+│              │
+│              └── Advantage REINFORCE
+│                       │
+│                       = Monte-Carlo Actor-Critic
+│
+└── TD Actor-Critic
+        │
+        ├── A2C
+        ├── A3C
+        ├── GAE
+        └── PPO
